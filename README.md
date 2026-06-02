@@ -3,6 +3,9 @@
 A production-ready full-stack Inventory & Order Management System built using React, FastAPI, PostgreSQL, Docker, and Docker Compose.
 
 ---
+# Links
+# Frontend:-https://inventory-system-qy65-24qv799kd-abhishek-3191s-projects.vercel.app/
+# Backend:- https://inventory-system-e038.onrender.com
 
 # Tech Stack
 
